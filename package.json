@@ -1,17 +1,17 @@
 {
-  "_from": "@solana/buffer-layout",
-  "_id": "@solana/buffer-layout@3.0.0",
+  "_from": "@gemachain/buffer-layout",
+  "_id": "@gemachain/buffer-layout@3.0.0",
   "_inBundle": false,
   "_integrity": "sha512-MVdgAKKL39tEs0l8je0hKaXLQFb7Rdfb0Xg2LjFZd8Lfdazkg6xiS98uAZrEKvaoF3i4M95ei9RydkGIDMeo3w==",
-  "_location": "/@solana/buffer-layout",
+  "_location": "/@gemachain/buffer-layout",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "@solana/buffer-layout",
-    "name": "@solana/buffer-layout",
-    "escapedName": "@solana%2fbuffer-layout",
-    "scope": "@solana",
+    "raw": "@gemachain/buffer-layout",
+    "name": "@gemachain/buffer-layout",
+    "escapedName": "@gemachain%2fbuffer-layout",
+    "scope": "@gemachain",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -22,14 +22,14 @@
   ],
   "_resolved": "https://registry.npmjs.org/@solana/buffer-layout/-/buffer-layout-3.0.0.tgz",
   "_shasum": "b9353caeb9a1589cb77a1b145bcb1a9a93114326",
-  "_spec": "@solana/buffer-layout",
+  "_spec": "@geamchain/buffer-layout",
   "_where": "/home/imentus/IdeaProjects/etc/buffer-layout",
   "author": {
     "name": "Peter A. Bigot",
     "email": "pab@pabigot.com"
   },
   "bugs": {
-    "url": "https://github.com/pabigot/buffer-layout/issues"
+    "url": "https://github.com/ManojSharma5500/buf_lyout/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -54,7 +54,7 @@
   "files": [
     "/lib"
   ],
-  "homepage": "https://github.com/pabigot/buffer-layout",
+  "homepage": "https://github.com/ManojSharma5500/buf_lyout#readme",
   "keywords": [
     "Buffer",
     "struct",
@@ -63,10 +63,10 @@
   ],
   "license": "MIT",
   "main": "./lib/Layout.js",
-  "name": "@solana/buffer-layout",
+  "name": "@gemachain/buffer-layout",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pabigot/buffer-layout.git"
+    "url": "git+https://github.com/ManojSharma5500/buf_lyout.git"
   },
   "scripts": {
     "build": "tsc",
