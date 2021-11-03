@@ -1,16 +1,17 @@
 {
-  "_from": "@gemachain/buffer-layout",
+  "_from": "@dainocreation/buffer-layout",
+  "_id": "@dainocreation/buffer-layout@3.0.0",
   "_inBundle": false,
   "_integrity": "sha512-MVdgAKKL39tEs0l8je0hKaXLQFb7Rdfb0Xg2LjFZd8Lfdazkg6xiS98uAZrEKvaoF3i4M95ei9RydkGIDMeo3w==",
-  "_location": "/@gemachain/buffer-layout",
+  "_location": "/@dainocreation/buffer-layout",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "@gemachain/buffer-layout",
-    "name": "@gemachain/buffer-layout",
-    "escapedName": "@gemachain%2fbuffer-layout",
-    "scope": "@gemachain",
+    "raw": "@dainocreation/buffer-layout",
+    "name": "@dainocreation/buffer-layout",
+    "escapedName": "@dainocreation%2fbuffer-layout",
+    "scope": "@dainocreation",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,7 +20,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/@solana/buffer-layout/-/buffer-layout-3.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/@dainocreation/buffer-layout/-/buffer-layout-3.0.0.tgz",
   "_shasum": "b9353caeb9a1589cb77a1b145bcb1a9a93114326",
   "_spec": "@geamchain/buffer-layout",
   "_where": "/home/imentus/IdeaProjects/etc/buffer-layout",
@@ -62,7 +63,7 @@
   ],
   "license": "MIT",
   "main": "./lib/Layout.js",
-  "name": "@gemachain/buffer-layout",
+  "name": "@dainocreation/buffer-layout",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ManojSharma5500/buf_lyout.git"
