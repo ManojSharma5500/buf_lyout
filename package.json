@@ -1,6 +1,5 @@
 {
   "_from": "@gemachain/buffer-layout",
-  "_id": "@gemachain/buffer-layout@3.0.0",
   "_inBundle": false,
   "_integrity": "sha512-MVdgAKKL39tEs0l8je0hKaXLQFb7Rdfb0Xg2LjFZd8Lfdazkg6xiS98uAZrEKvaoF3i4M95ei9RydkGIDMeo3w==",
   "_location": "/@gemachain/buffer-layout",
